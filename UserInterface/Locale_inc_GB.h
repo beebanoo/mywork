@@ -1,0 +1,2 @@
+
+#define USE_RELATIVE_PATH
